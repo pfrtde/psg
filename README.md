@@ -1,0 +1,2 @@
+# psg
+Python Selbsthilfe Gruppe
