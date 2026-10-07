@@ -1,2 +1,1 @@
-# psg
-Python Selbsthilfe Gruppe
+### Python Selbsthilfe Gruppe (PSG)
